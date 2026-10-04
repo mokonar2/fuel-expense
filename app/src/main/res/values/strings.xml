@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Расход топлива</string>
+
+    <string name="tab_input">Заправка</string>
+    <string name="tab_calc">Расчёт</string>
+
+    <string name="label_date">Дата заправки</string>
+    <string name="label_mileage">Пробег, км</string>
+    <string name="label_fuel_type">Вид топлива</string>
+    <string name="label_amount">Количество, л</string>
+    <string name="label_price">Цена за литр, ₽</string>
+    <string name="label_total">Общая стоимость, ₽</string>
+
+    <string name="fuel_ai92">АИ-92</string>
+    <string name="fuel_ai95">АИ-95</string>
+    <string name="fuel_ai98">АИ-98</string>
+    <string name="fuel_diesel">Дизель</string>
+    <string name="fuel_gas">Газ</string>
+
+    <string-array name="fuel_types">
+        <item>АИ-92</item>
+        <item>АИ-95</item>
+        <item>АИ-98</item>
+        <item>Дизель</item>
+        <item>Газ</item>
+    </string-array>
+
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="history">История заправок</string>
+    <string name="empty_history">Записей пока нет.\nДобавьте первую заправку.</string>
+
+    <string name="error_fill">Заполните все поля корректно</string>
+    <string name="saved">Заправка сохранена</string>
+    <string name="delete_confirm">Удалить эту запись?</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="stat_expense_per_km">Расход на 1 км, л</string>
+    <string name="stat_expense_per_100km">Расход на 100 км, л</string>
+    <string name="stat_cost_per_km">Стоимость на 1 км, ₽</string>
+    <string name="stat_cost_per_100km">Стоимость на 100 км, ₽</string>
+    <string name="stat_count">Всего заправок</string>
+    <string name="stat_total_fuel">Всего топлива, л</string>
+    <string name="stat_total_cost">Всего потрачено, ₽</string>
+    <string name="stat_avg_price">Средняя цена, ₽/л</string>
+    <string name="stat_total_mileage">Пройдено км</string>
+
+    <string name="no_data">Недостаточно данных.\nДобавьте не менее двух заправок.</string>
+</resources>
